@@ -1,0 +1,22 @@
+{
+  "name": "tp3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exo1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vmanachem/NodeJs-Tp3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vmanachem/NodeJs-Tp3/issues"
+  },
+  "homepage": "https://github.com/vmanachem/NodeJs-Tp3#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}

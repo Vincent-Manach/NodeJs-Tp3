@@ -16,7 +16,6 @@ const myPromise = (date) => {
     return new Promise((resolve, failure) => {
         const dob = new Date (date)
         const ageOfMaj = new Date('2004-01-01')
-        console.log(dob +'fdrfdr'+ ageOfMaj)
         if (dob < ageOfMaj ) {
             resolve('True')
             return true
